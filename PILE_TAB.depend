@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620892390 source:c:\users\hp15\documents\pile_tab\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"PILE.h"
+
+1620892280 c:\users\hp15\documents\pile_tab\pile.h
+
+1620935457 source:c:\users\hp15\documents\pile_tab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PILE.h"
+
